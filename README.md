@@ -336,7 +336,6 @@ Inspirado em:
 * Arch Linux
 * Hyprland
 * Wayland
-* AMD Ryzen 7 1700
 
 ---
 
